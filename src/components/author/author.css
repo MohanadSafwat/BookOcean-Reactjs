@@ -1,0 +1,33 @@
+.author-wrapper{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.author-info{
+    display: flex;
+}
+.author-info .author-image {
+  padding: 30px;
+}
+.author-info .author-image img{
+    width: 190px;
+    height: 250px;
+}
+.author-info .author-data {
+   margin-left:50px ;
+   padding: 30px;
+   font-size: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   font-weight: 300;
+}
+
+
+.author-info .author-data p {
+    margin-bottom: 10px;
+ }
+ 
+

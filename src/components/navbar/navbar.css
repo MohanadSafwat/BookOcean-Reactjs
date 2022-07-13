@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(45, 44, 44);
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar button {
+    background-color:white;
+    border: none;
+    color: crimson;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+
+}

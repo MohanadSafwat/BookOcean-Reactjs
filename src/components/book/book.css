@@ -1,0 +1,38 @@
+.book-wrapper{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.book-info{
+    display: flex;
+}
+.book-info .book-image {
+  padding: 30px;
+}
+.book-info .book-image img{
+    width: 190px;
+    height: 250px;
+}
+.book-info .book-data {
+   margin-left:50px ;
+   padding: 30px;
+   font-size: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   font-weight: 300;
+}
+.book-info .book-data a{
+   color: crimson;
+   text-decoration: none;
+ }
+
+.book-wrapper .summary{
+    padding: 30px;
+}
+.book-wrapper .summary h1{
+    font-weight: 400;
+    margin-bottom: 10px;
+}
