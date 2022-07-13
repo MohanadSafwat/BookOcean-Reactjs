@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookOcean-Reactjs/static/css/main.175c1998.css",
+    "main.js": "/BookOcean-Reactjs/static/js/main.262989af.js",
+    "index.html": "/BookOcean-Reactjs/index.html",
+    "main.175c1998.css.map": "/BookOcean-Reactjs/static/css/main.175c1998.css.map",
+    "main.262989af.js.map": "/BookOcean-Reactjs/static/js/main.262989af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175c1998.css",
+    "static/js/main.262989af.js"
+  ]
+}
